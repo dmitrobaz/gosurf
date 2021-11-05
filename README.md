@@ -2,11 +2,11 @@ Go-Surf
 =============================
 
 The following technology stack was used in this project: 
-*-HTML5
-*-SASS
-*-[Gulp](https://gulpjs.com/)
-*-[Wow.js](https://wowjs.uk/)
-*-[Animate.css](https://animate.style/)
+* HTML5
+* SASS
+* [Gulp](https://gulpjs.com/)
+* [Wow.js](https://wowjs.uk/)
+* [Animate.css](https://animate.style/)
 
 The author of the project
 -----------
